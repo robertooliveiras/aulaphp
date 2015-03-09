@@ -11,11 +11,12 @@
 			<h1>School of Net - P1 - Exercícios 3</h1>
 			<div id="menu">
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="index.php">Exercício 3</a></li>
 					<li><a href="empresa.php">Empresa</a></li>
 					<li><a href="localizacao.php">Localização</a></li>
 					<li><a href="produtos.php">Produtos</a></li>
 					<li><a href="faleconosco.php">Fale Conosco</a></li>
+					<li><a href="../">Voltar um nível</a></li>
 				</ul>
 			</div>
 		</div>

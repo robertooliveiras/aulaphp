@@ -6,7 +6,12 @@ $x = 1;
 # (String)
 $nome = "School of Net";
 
-echo $x;
-echo $nome;
-
 ?>
+
+<?php include_once 'topo.php';?>
+
+		<div id="content">
+		<?php echo $x . "<br />" . $nome;?>
+		</div>
+
+<?php include_once 'footer.php';?>

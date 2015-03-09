@@ -11,11 +11,12 @@
 			<h1>School of Net - Site a jato</h1>
 			<div id="menu">
 				<ul>
-					<li><a href="index.php">Home</a></li>
+					<li><a href="index.php">aula 07</a></li>
 					<li><a href="empresa.php">Empresa</a></li>
 					<li><a href="produtos.php">Produtos</a></li>
 					<li><a href="contato.php">Contato</a></li>
 					<li><a href="novo.php">Novo</a></li>
+					<li><a href="../">Voltar um nível</a></li>
 				</ul>
 			</div>
 		</div>

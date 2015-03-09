@@ -8,5 +8,12 @@ $vl_soma = 4; // Resultado = $vl_soma / 2
 
 $resultado = ((($x * 2) + $vl_soma ) / 2 ) - $x;
 ?>
-<h1>Pensei no número  [<?php echo $x; ?>] -- o resultado sempre é 2</h1>
-<h2><?php echo $resultado; ?></h2>
+<?php include_once 'topo.php';?>
+
+		<div id="content">
+			<h1>Pensei no número  [<?php echo $x; ?>] -- o resultado sempre é 2</h1>
+			<h2><?php echo $resultado; ?></h2>
+		</div>
+
+<?php include_once 'footer.php';?>
+
