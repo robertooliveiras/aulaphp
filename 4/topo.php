@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html >
 <head>
-<title>School of Net - Aula de PHP Básico</title>
+<title>School of Net - Condicional</title>
  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
 </head>
 <body>
 	<div id="estrutura">
 
 		<div id="topo">
-			<h1>School of Net - Aula de PHP Básico</h1>
+			<h1>School of Net - Condicional</h1>
 			<div id="menu">
 				<ul>
-					<li><a href="index.php">Home</a></li>
-					<li><a href="3/">Módulo 3</a></li>	
-					<li><a href="4/">Módulo 4</a></li>			
+					<li><a href="index.php">Módulo 4</a></li>
+					<li><a href="se.php">01. Se</a></li>
 					<li><a href="../">Voltar um nível</a></li>
 				</ul>
 			</div>
