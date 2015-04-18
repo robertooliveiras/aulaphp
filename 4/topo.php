@@ -12,7 +12,9 @@
 			<div id="menu">
 				<ul>
 					<li><a href="index.php">Módulo 4</a></li>
-					<li><a href="se.php">01. Se</a></li>
+					<li><a href="if.php">01. If</a></li>
+					<li><a href="else.php">02. Else</a></li>
+					<li><a href="elseif.php">03. Elseif</a></li>
 					<li><a href="../">Voltar um nível</a></li>
 				</ul>
 			</div>
