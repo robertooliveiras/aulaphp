@@ -13,7 +13,9 @@
 				<ul>
 					<li><a href="index.php">Home</a></li>
 					<li><a href="3/">Módulo 3</a></li>	
-					<li><a href="4/">Módulo 4</a></li>			
+					<li><a href="4/">Módulo 4</a></li>
+					<li><a href="5/">Módulo 5</a></li>
+					<li><a href="6/">Módulo 6</a></li>
 					<li><a href="../">Voltar um nível</a></li>
 				</ul>
 			</div>

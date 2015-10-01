@@ -1,9 +1,22 @@
 <?php
+include_once 'topo.php';
+$i = 1;
 
 do {
+    var_dump("i = ".$i . "| j = " . $j);
 	if (empty($j)) {
-		$i = 3;
+		$i *= 2;
+        $j = 1;
 	}else{
-		$i = 1;
+		if($i > 2){
+            $i--;
+        } else {
+            $i++;
+        }
+        $j = null;
 	}
-} while ($i == 3);
+    var_dump("i = ".$i . "| j = " . $j);
+
+} while ($i <= 5);
+
+include_once 'footer.php';
